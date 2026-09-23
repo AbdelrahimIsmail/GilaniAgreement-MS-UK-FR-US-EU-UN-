@@ -1,0 +1,8 @@
+{
+  "name": "Remix Gilani Agreement Treaty Portal (MS-UK-FR-US-EU-UN)",
+  "description": "Comprehensive diplomatic, legal, and historical framework analyzing the 1919 Gilani Agreement between the Masalit Sultanate, UK, France, and modern multilateral mandates involving the US, EU, and UN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
